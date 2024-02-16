@@ -1,2 +1,2 @@
 # Pdf Merge Using Python
-Pdf merger using PdfMerger an Os in Python
+Pdf merger using pypdf and os in Python
